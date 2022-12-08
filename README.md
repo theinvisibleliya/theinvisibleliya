@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Liya Zaygerman
+- 👀 I’m interested in biochemistry and bioinformatics
+- 🌱 I’m currently learning java, python and sql
+- 💞️ I’m looking to collaborate on challenging projects in bioinformatics
+- 📫 How to reach me: liya.zaygerman (at) tum (dot) de
