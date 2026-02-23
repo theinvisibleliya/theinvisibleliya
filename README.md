@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Liya Zaygerman
-- 👀 I’m interested in fun biological problems and solving biology's puzzles
-- 🌱 I’m currently learning rust and starting with deep learning
-- 📫 How to reach me: liya.zaygerman (at) tum (dot) de
+- 👀 I’m interested in solving biology's puzzles with computational tools
+- 🌱 I used to be a plant enthusiast, but I am a plant bioinformatician now :)
+- 🐍 I am mostly working in python
+- ⚙️ I’m currently learning rust
+- 📫 How to reach me: [private] liya.zaygerman (at) tum (dot) de, [work] liya.zaygerman (at) gmi (dot) oeaw (dot) ac (dot) at
