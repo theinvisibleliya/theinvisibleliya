@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liya Zaygerman
 - 👀 I’m interested in solving biology's puzzles with computational tools
-- 🌱 I used to be a plant enthusiast, but I am a plant bioinformatician now :)
-- 🐍 I am mostly working in python
+- 🌱🐝 My focus: Computational biology of insect-plant interactions 
+- 🐍 I am mostly working with python and nextflow
 - ⚙️ I’m currently learning rust
 - 📫 How to reach me: [private] liya.zaygerman (at) tum (dot) de, [work] liya.zaygerman (at) gmi (dot) oeaw (dot) ac (dot) at
